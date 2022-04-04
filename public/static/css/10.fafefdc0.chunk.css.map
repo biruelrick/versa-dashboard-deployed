@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/app-views/dashboards/styles.css"],"names":[],"mappings":"AAAA,iBACE,gBACF,CAEA,uBACE,gBACF","file":"10.fafefdc0.chunk.css","sourcesContent":[".card-divergence {\n  min-height: 470px;\n}\n\n.card-vol, .card-reason {\n  min-height: 398px;\n}\n"]}
